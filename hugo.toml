@@ -1,7 +1,7 @@
 baseURL = '/'
 languageCode = 'es-es'
 title = 'arboldemelones blog'
-theme = 'notrack'
+theme = 'notrack-custom'
 
 [params]
 author = 'Juan José López Castilla'
