@@ -1,0 +1,3 @@
+[submodule "themes/notrack-custom"]
+	path = themes/notrack-custom
+	url = https://github.com/arboldemelones/hugo-notrack-custom.git
