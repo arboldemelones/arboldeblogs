@@ -3,3 +3,6 @@
 .cache/
 # Hugo public directory
 public/
+
+resources/
+**.psd
