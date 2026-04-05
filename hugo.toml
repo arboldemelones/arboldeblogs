@@ -24,10 +24,10 @@ rss = "yes"  # Value doesn't matter - it will always link to your blog RSS
 keybase = "example"
 
 [taxonomies]
-year = "año"
-month = "mes"
-tags = "etiquetas"
-categories = "categorías"
+year = "year"
+month = "month"
+tags = "tags"
+categories = "categories"
 
 [permalinks]
   blog = "/blog/:year/:month/:slug"

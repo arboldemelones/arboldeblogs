@@ -1,8 +1,8 @@
 ---
 title: ''
 date: '2025-XX-XX'
-Tags: []
-Categories: []
+tags: []
+categories: []
 draft: true
 summary: ""
 ---

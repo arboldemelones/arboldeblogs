@@ -6,3 +6,6 @@ public/
 
 resources/
 **.psd
+ae_dither/
+.archive/
+terminal-custom/
