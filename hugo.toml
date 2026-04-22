@@ -16,6 +16,9 @@ mainSections = ["posts"]  # Section name of your blog (folder name)
 blogLatestHeading = "My writing"  # Heading above blog summary
 nBlogLatest = 4  # Number of blog post in summary
 
+[params.style]
+gitURL = 'https://arboldemelones.github.io/arboldeblogs'
+
 [params.social]
 github = "example"
 linkedin = "example"
