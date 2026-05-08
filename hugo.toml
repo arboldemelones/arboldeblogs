@@ -17,7 +17,7 @@ blogLatestHeading = "My writing"  # Heading above blog summary
 nBlogLatest = 4  # Number of blog post in summary
 
 [params.style]
-gitURL = 'https://arboldemelones.github.io/arboldeblogs'
+gitURL = ''#'https://arboldemelones.github.io/arboldeblogs'
 
 [params.social]
 github = "example"
